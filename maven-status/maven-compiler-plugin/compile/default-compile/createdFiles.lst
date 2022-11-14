@@ -11,6 +11,7 @@ com\fmatheus\app\exception\swagger\Forbidden.class
 com\fmatheus\app\exception\UserInactiveException.class
 com\fmatheus\app\exception\handler\RestResponseHandler.class
 com\fmatheus\app\config\BeanConfig.class
+com\fmatheus\app\constant\HttpStatusConstant.class
 com\fmatheus\app\exception\swagger\ServerError.class
 com\fmatheus\app\exception\handler\ServerErrorException.class
 com\fmatheus\app\exception\BadRequestException.class

@@ -14,6 +14,7 @@ Z:\Projetos\Particular\custom-exception\src\main\java\com\fmatheus\app\exception
 Z:\Projetos\Particular\custom-exception\src\main\java\com\fmatheus\app\exception\FileStorageException.java
 Z:\Projetos\Particular\custom-exception\src\main\java\com\fmatheus\app\exception\ForbiddenException.java
 Z:\Projetos\Particular\custom-exception\src\main\java\com\fmatheus\app\exception\swagger\BadRequest.java
+Z:\Projetos\Particular\custom-exception\src\main\java\com\fmatheus\app\constant\HttpStatusConstant.java
 Z:\Projetos\Particular\custom-exception\src\main\java\com\fmatheus\app\enumerable\MessageEnum.java
 Z:\Projetos\Particular\custom-exception\src\main\java\com\fmatheus\app\exception\handler\response\MessageResponse.java
 Z:\Projetos\Particular\custom-exception\src\main\java\com\fmatheus\app\exception\UserInactiveException.java
